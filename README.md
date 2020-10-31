@@ -5,7 +5,9 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5a4fcf)
 
+- [CodeForces](https://github.com/shivanishimpi/CP/tree/main/CodeForces)
 - [LeetCode](https://github.com/shivanishimpi/CP/tree/main/LeetCode)
+
 
 ### Reach out
 
