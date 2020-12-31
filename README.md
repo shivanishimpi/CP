@@ -6,7 +6,7 @@
 
 - [CodeForces](https://github.com/shivanishimpi/CP/tree/main/CodeForces)
 - [LeetCode](https://github.com/shivanishimpi/CP/tree/main/LeetCode)
-
+- [CodeChef](https://github.com/shivanishimpi/CP/tree/main/CodeChef)
 
 ### Reach out
 
@@ -19,6 +19,3 @@
 
 [1]: https://twitter.com/ShimpiShivani
 [2]: https://www.linkedin.com/in/shivani-shimpi-5113a8170/
-
-
-
